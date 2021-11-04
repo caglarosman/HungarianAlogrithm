@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\casper\desktop\computerprogrammingcpp\computerprogrammingcpp\source.cpp(31): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\casper\desktop\computerprogrammingcpp\computerprogrammingcpp\source.cpp(37): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\casper\desktop\computerprogrammingcpp\computerprogrammingcpp\source.cpp(379): warning C4101: 'j': unreferenced local variable
+c:\users\casper\desktop\computerprogrammingcpp\computerprogrammingcpp\source.cpp(401): warning C4101: 'j': unreferenced local variable
+c:\users\casper\desktop\computerprogrammingcpp\computerprogrammingcpp\source.cpp(409): warning C4101: 'j': unreferenced local variable
+  ComputerProgrammingCpp.vcxproj -> C:\Users\Casper\Desktop\ComputerProgrammingCpp\Debug\ComputerProgrammingCpp.exe
